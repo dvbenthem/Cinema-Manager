@@ -85,10 +85,10 @@ fun totalSeatsOccupied(room: MutableList<MutableList<String>>){
 }
 
 fun totalIncome(rows: Int, cols: Int, room: MutableList<MutableList<String>>){
-    val totalSeats = rows * cols
-    var totalCost = 0
-    var totalIncome = 0
-    val halfRows = rows / 2
+    val totalSeats: Int = rows * cols
+    var totalCost: Int = 0
+    var totalIncome: Int = 0
+    val halfRows: Int = rows / 2
 
     for (i in 0 until rows) {
         val row = room[i]
