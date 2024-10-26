@@ -1,0 +1,12 @@
+type: edu
+custom_name: Errors!
+files:
+  - name: src/cinema/Cinema.kt
+    visible: true
+    learner_created: false
+  - name: test/CinemaTests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/50545#comment
+status: Solved
+record: 3

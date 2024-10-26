@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager (Kotlin)/task/build/
+/Cinema Room Manager (Kotlin)/task/out/
+/Cinema Room Manager (Kotlin)/task/out/production/classes/
+/Topics/For loop and lists/Triples/out/
+/Topics/For loop and lists/Triples/out/production/classes/
+/Topics/Multi-dimensional list/Shapeshifter/out/
+/Topics/Multi-dimensional list/Shapeshifter/out/production/classes/
